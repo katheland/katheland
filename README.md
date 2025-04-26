@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Katherine
+
+I have eight years of work experience involving programming in various languages, and am always looking to add to my skill set.
+
+- I'm currently learning Go, as well as solidifying my understanding of how back-end development works.
 
 <!--
 **katheland/katheland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
